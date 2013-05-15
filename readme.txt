@@ -1,7 +1,7 @@
-=== Members ===
+=== Disable Post Format UI ===
 Contributors: greenshady
 Donate link: http://themehybrid.com/donate
-Tags: admin, role, roles, member, members, profile, shortcode, user, users, widget, widgets
+Tags: post-formats, posts, post, admin
 Requires at least: 3.6
 Tested up to: 3.6
 Stable tag: 0.1.0
